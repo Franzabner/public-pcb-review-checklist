@@ -1,6 +1,6 @@
 # PCB Review Checklist
 
-Status: Scaffolded. Human Review Required before publication.
+Status: Public scaffold. Release status: scaffolded. License pending human review.
 
 ## Review Metadata
 
@@ -9,7 +9,7 @@ Status: Scaffolded. Human Review Required before publication.
 | Project | synthetic or reviewed public-safe project only |
 | Review type | documentation review |
 | Artifact status | Planned / Scaffolded / Human Review Required |
-| Reviewer | Human Review Required |
+| Review requirement | Human Review Required |
 | Date | Human Review Required |
 
 ## Checklist

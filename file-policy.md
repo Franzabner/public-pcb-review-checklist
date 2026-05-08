@@ -1,6 +1,6 @@
 # File Policy
 
-Status: Scaffolded. Human Review Required before publication.
+Status: Public scaffold. Release status: scaffolded. License pending human review.
 
 ## Allowed
 

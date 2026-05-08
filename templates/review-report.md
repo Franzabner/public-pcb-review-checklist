@@ -9,7 +9,7 @@ Status: Draft. Use synthetic or reviewed public-safe inputs only.
 | Review target |  |
 | Artifact status | Planned / Scaffolded / Human Review Required |
 | Review date |  |
-| Reviewer |  |
+| Review requirement | Human review required before release claims, license changes, or external references. |
 | Public-safe decision | Human Review Required / revise / hold |
 
 ## Findings

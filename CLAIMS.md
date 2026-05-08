@@ -1,10 +1,10 @@
 # Claims
 
-Status: Scaffolded. Human Review Required before publication.
+Status: Public scaffold. Release status: scaffolded. License pending human review.
 
-## Allowed Claims While Local-Only
+## Allowed Claims While Scaffolded
 
-- This repo is a local scaffold for public-safe PCB documentation review.
+- This repo is a public scaffold for public-safe PCB documentation review.
 - It demonstrates review discipline around scope, schematic readability, power domains, signal classes, interfaces, manufacturing-readiness questions, evidence severity, and boundary handling.
 - It uses synthetic examples unless an artifact is explicitly marked reviewed and approved for public use.
 - It may support future draft Upwork proof for PCB documentation review and report cleanup after human review.
